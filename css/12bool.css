@@ -136,6 +136,12 @@
   .offset-xs-12{
     margin-left: calc((100% / 12) *12 )
   }
+
+  /* display none xs */
+
+  .d-none-xs {
+    display: none;
+  }
 }
 
 /* colonne da 768 a 991px */
@@ -239,6 +245,12 @@
   .offset-md-12{
     margin-left: calc((100% / 12) *12 )
   }
+
+  /* display none md */
+
+  .d-none-md {
+    display: none;
+  }
 }
 
 @media screen and (min-width: 992px) {
@@ -339,5 +351,11 @@
 
   .offset-lg-12{
     margin-left: calc((100% / 12) *12 )
+  }
+
+  /* display none lg */
+
+  .d-none-lg {
+    display: none;
   }
 }
