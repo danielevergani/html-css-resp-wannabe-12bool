@@ -1,5 +1,10 @@
 .title{
   text-align: center;
+  margin: 40px 0 20px 0;
+}
+
+h3{
+  margin: 5px 0;
 }
 
 .page-img{
@@ -15,7 +20,12 @@
 }
 
 .function{
-  padding: 10px;
+  padding: 0 10px;
+  margin-bottom: 15px;
+}
+
+.why-text{
+  padding: 0 10px 25px 10px;
 }
 
 .why .page-img{
