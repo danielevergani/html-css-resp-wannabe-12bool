@@ -18,6 +18,9 @@
   padding: 10px;
 }
 
+.why .page-img{
+  background-color: grey;
+}
 
 @media screen and (min-width: 768px) and (max-width: 991px){
   .page-img{
